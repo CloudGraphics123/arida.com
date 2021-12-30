@@ -4,7 +4,7 @@
 header {
 	padding: 35px;
 	background-image: url("telephone_background_blurred.jpg");
-	background-size: 1400px;
+	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
 }
